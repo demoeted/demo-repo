@@ -5,3 +5,7 @@ A basic description for training.
 ## Minor header for training
 
 This was added in VSC
+
+## Local Development
+
+1. Open index.html in your current browser.
